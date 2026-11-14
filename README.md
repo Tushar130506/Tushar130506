@@ -1,7 +1,6 @@
 # Hi, I'm Tushar 👋
 
-**B.Tech CSE student (AI/ML) at SRM University AP, graduating 2028.**
-I build backend systems and ML pipelines in Python, and I'm open to backend / Python internships.
+Just building stuff, and figuring out new tech and subjects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TusharSharma)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tushar130506)
